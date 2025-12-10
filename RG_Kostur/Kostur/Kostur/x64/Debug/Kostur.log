@@ -1,0 +1,8 @@
+﻿  Drawing.cpp
+  ElevatorLogic.cpp
+  Main.cpp
+  Util.cpp
+C:\Users\DELL\Desktop\grafika - Copy - Copy\RG_Kostur\Kostur\Source\Util.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+C:\Users\DELL\Desktop\grafika - Copy - Copy\RG_Kostur\Kostur\Source\Util.cpp(184,1): warning C4715: 'loadImageToCursor': not all control paths return a value
+  Kostur.vcxproj -> C:\Users\DELL\Desktop\grafika - Copy - Copy\RG_Kostur\Kostur\x64\Debug\Kostur.exe
